@@ -2,7 +2,7 @@
 
 > Spring在TransactionDefinition接口中规定了7种类型的事务传播行为。事务传播行为是Spring框架独有的事务增强特性。这是Spring为我们提供的强大的工具箱，使用事务传播行为可以为我们的开发工作提供许多便利
 
-![image-20200708141513323](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708141513323.png)
+![image-20200708141513323](https://upload-images.jianshu.io/upload_images/6317785-f3381f23bb724b51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 1.PROPAGATION_REQUIRED
 
