@@ -99,8 +99,8 @@ public class TransactionTests {
 
 #### 2.结果:
 
-- ![image-20200708150715829](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708150715829.png)
-- ![image-20200708150842833](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708150842833.png)
+- ![image-20200708150715829](https://upload-images.jianshu.io/upload_images/6317785-b7b19d27c2e3e9e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- ![image-20200708150842833](https://upload-images.jianshu.io/upload_images/6317785-2873d34de44bdadc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 3.结果分析
 
@@ -210,9 +210,9 @@ public void test() {
 
 #### 2.结果：
 
-![image-20200708151524132](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151524132.png)
+![image-20200708151524132](https://upload-images.jianshu.io/upload_images/6317785-daf59dd7959b1583.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- > ![image-20200708151553167](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151553167.png)
+![image-20200708151553167](https://upload-images.jianshu.io/upload_images/6317785-8ac8dab72a8a2960.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 3.结果分析
 
@@ -226,9 +226,9 @@ public void test() {
 
 #### 1.结果：
 
-![image-20200708151524132](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151524132.png)
+![image-20200708151524132](https://upload-images.jianshu.io/upload_images/6317785-73ac05ea6818fc52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- > ![image-20200708151553167](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151553167.png)
+- > ![image-20200708151553167](https://upload-images.jianshu.io/upload_images/6317785-73ac05ea6818fc52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
@@ -297,7 +297,7 @@ public void test() {
 
 #### 2.结果：
 
-![image-20200708165757283](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708165757283.png)
+![image-20200708165757283](https://upload-images.jianshu.io/upload_images/6317785-cb616fab232f4d21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 结论：可以发现在调用userService.add()时候已经报错了，所以两个表都没有新增数据，验证了“如果当前不存在事务，就抛出异常”。（本地user表新增了一条数据）
 
@@ -364,8 +364,8 @@ public void test() {
 
 #### 3.结果：
 
-- ![image-20200708150715829](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708150715829.png)
-- ![image-20200708150842833](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708150842833.png)
+- ![image-20200708150715829](https://upload-images.jianshu.io/upload_images/6317785-8a9c3fa32d9789d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- ![image-20200708150842833](https://upload-images.jianshu.io/upload_images/6317785-710e76d6122d8b56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 4.结果分析
 
@@ -393,7 +393,7 @@ public void test() {
 
 ## 三.@Transactional 注解 可选参数
 
-![image-20200708171249659](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708171249659.png)
+![image-20200708171249659](https://upload-images.jianshu.io/upload_images/6317785-03cc804c26e51e2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
