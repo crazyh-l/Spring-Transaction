@@ -141,9 +141,9 @@ public void test() {
 
 #### 1.结果：
 
-![image-20200708151524132](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151524132.png)
+![image-20200708151524132](https://upload-images.jianshu.io/upload_images/6317785-daf59dd7959b1583.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- > ![image-20200708151553167](https://github.com/crazyh-l/Spring-Transaction/tree/master/img/image-20200708151553167.png)
+![image-20200708151553167](https://upload-images.jianshu.io/upload_images/6317785-8ac8dab72a8a2960.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ####  2.结果分析
 
